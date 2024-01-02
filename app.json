@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "jeepney_fare",
+    "slug": "jeepney_fare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
